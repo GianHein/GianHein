@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Gian Hein, I am a high school student from Berlin, Germany who enjoys to write code.
+My name is Gian Hein, I am a high school student from Berlin, Germany who enjoys to write code. I am also a history enthusiast 📖 and a big fan of Julius Caesar and Rome in general.
 
 
 #### 💻 Tech Stack:
