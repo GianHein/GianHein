@@ -12,6 +12,6 @@
 
 ###
 
-<p align="left">🎉 Born 2005<br>✨ Creating bugs since 2017<br>🪴 I'm currently learning Rust</p>
+<p align="left">🎉 Born 2005<br>✨ Creating bugs since 2017<br>🪴 I'm currently learning game engine programming</p>
 
 ###
